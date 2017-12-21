@@ -4,7 +4,7 @@
   "description": "Cordova File Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
-    "id": "cordova-plugin-file-novo-static",
+    "id": "cordova-plugin-file-transfer-novo-static",
     "platforms": [
       "android",
       "browser",
